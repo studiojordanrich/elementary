@@ -8,5 +8,3 @@ layout: base
 
 A starter project for Eleventy
 
-## Features
-
