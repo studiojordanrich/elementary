@@ -1,0 +1,9 @@
+header {
+    margin-bottom: 3rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.entry-content {
+    max-width: 600px;
+}
